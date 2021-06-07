@@ -1,0 +1,2 @@
+staic main(){}
+
